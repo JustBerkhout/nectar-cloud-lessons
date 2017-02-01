@@ -1,5 +1,10 @@
 # Cloud Starter Mini, Resbaz 2017 Hobart
-This is a scaled down version of Nectar Cloud Starter
+URL: [http://tinyurl.com/cloud-starter-mini](http://tinyurl.com/cloud-starter-mini)
+
+This is a scaled down version of Nectar Cloud Starter for the ResBaz 2017 Hobart Community day.
+
+Just Berkhout,
+Tasmanian Partnership for Advanced Computing
 
 ![](Resources/CloudStarterMiniDiag.png)
 
