@@ -41,7 +41,7 @@ This is a scaled down version of Nectar Cloud Starter
 * Second Launch, and
 * User Management, and
 * Connect RStudio (web)
-    * Activity (instructions here: [resources/LaunchTPACRStudioServer.md](resources/LaunchTPACRStudioServer.md))
+    * Activity (instructions here: [Resources/LaunchTPACRStudioServer.md](Resources/LaunchTPACRStudioServer.md))
     * 
 
 # Further topics
