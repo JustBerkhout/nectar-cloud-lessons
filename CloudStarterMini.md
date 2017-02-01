@@ -1,7 +1,7 @@
 # Cloud Starter Mini, Resbaz 2017 Hobart
 This is a scaled down version of Nectar Cloud Starter
 
-![](resources/CloudStarterMiniDiag.png)
+![](Resources/CloudStarterMiniDiag.png)
 
 # Starter topics
 * Introduction and demo
