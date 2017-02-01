@@ -32,7 +32,7 @@ This is a scaled down version of Nectar Cloud Starter
     * Demo 
     * Activity
         * Mac: [http://tinyurl.com/apple-ssh-md](http://tinyurl.com/apple-ssh-md)
-        * Wind	ows MobaXTerm [http://tinyurl.com/windows-ssh-moba](http://tinyurl.com/windows-ssh-moba)
+        * Windows MobaXTerm [http://tinyurl.com/windows-ssh-moba](http://tinyurl.com/windows-ssh-moba)
 * Terminating
     * Terminate it using the Instance Action Menu
 * Availability zones
@@ -46,7 +46,7 @@ This is a scaled down version of Nectar Cloud Starter
 
 # Further topics
 
-* Data Transfer (scp or sftp clients)
-* Remote Desktop connectivity using X2Go
-* Snapshots (not included)
-* AARNet CloudStor
+* Data Transfer (scp or sftp clients) (some cat skins and pieces of string [here](https://github.com/resbaz/nectar-cloud-lessons/blob/master/Lessons/040.Moving.data.into.and.from.your.computer.md))
+* Remote Desktop connectivity using X2Go (info at  [http://tinyurl.com/x2go-setup](http://tinyurl.com/x2go-setup) and at [http://tinyurl.com/tpac-x2go](http://tinyurl.com/tpac-x2go))
+* Snapshots (not included today, info [here](https://github.com/resbaz/nectar-cloud-lessons/blob/master/Lessons/060.Snapshots.and.backups.md))
+* AARNet CloudStor (not included today, info [here](https://github.com/resbaz/nectar-cloud-lessons/blob/master/Lessons/071.AARNET.cloudstor.md))
