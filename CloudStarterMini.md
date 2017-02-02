@@ -12,7 +12,7 @@ Tasmanian Partnership for Advanced Computing
 * Introduction and demo
     * Basic use cases
     * Some benefits
-    * Dashboard tour
+    * Dashboard tour ([https://dashboard.rc.nectar.org.au/](https://dashboard.rc.nectar.org.au/))
         * AAF
         * Projects/Projects drop down
         * Support
