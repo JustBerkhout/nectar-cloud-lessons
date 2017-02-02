@@ -56,8 +56,12 @@ Tasmanian Partnership for Advanced Computing
 * Snapshots (not included today, info [here](https://github.com/resbaz/nectar-cloud-lessons/blob/master/Lessons/060.Snapshots.and.backups.md))
 * AARNet CloudStor (not included today, info [here](https://github.com/resbaz/nectar-cloud-lessons/blob/master/Lessons/071.AARNET.cloudstor.md))
 
-# Training, Documentation and support
+# Training, Documentation and Support
+
 Self-paced Nectar training: [http://training.nectar.org.au/](http://training.nectar.org.au/)
+
 Nectar online documentation: [https://support.ehelp.edu.au/support/solutions](https://support.ehelp.edu.au/support/solutions)
+
 Nectar support: [https://support.ehelp.edu.au](https://support.ehelp.edu.au) or NeCTAR Help Desk <support@nectar.org.au> 
+
 TPAC Support: <helpdesk@tpac.org.au>
