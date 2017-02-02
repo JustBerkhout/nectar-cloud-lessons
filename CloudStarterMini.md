@@ -55,3 +55,9 @@ Tasmanian Partnership for Advanced Computing
 * Remote Desktop connectivity using X2Go (info at  [http://tinyurl.com/x2go-setup](http://tinyurl.com/x2go-setup) and at [http://tinyurl.com/tpac-x2go](http://tinyurl.com/tpac-x2go))
 * Snapshots (not included today, info [here](https://github.com/resbaz/nectar-cloud-lessons/blob/master/Lessons/060.Snapshots.and.backups.md))
 * AARNet CloudStor (not included today, info [here](https://github.com/resbaz/nectar-cloud-lessons/blob/master/Lessons/071.AARNET.cloudstor.md))
+
+# Training, Documentation and support
+Self-paced Nectar training: [http://training.nectar.org.au/](http://training.nectar.org.au/)
+Nectar online documentation: [https://support.ehelp.edu.au/support/solutions](https://support.ehelp.edu.au/support/solutions)
+Nectar support: [https://support.ehelp.edu.au](https://support.ehelp.edu.au) or NeCTAR Help Desk <support@nectar.org.au> 
+TPAC Support: <helpdesk@tpac.org.au>
