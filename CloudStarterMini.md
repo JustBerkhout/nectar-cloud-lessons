@@ -28,7 +28,8 @@ Tasmanian Partnership for Advanced Computing
     * Windows users: the **MobaXTerm terminal software** [http://mobaxterm.mobatek.net/download.html](http://mobaxterm.mobatek.net/download.html) (Mac and Unix users can use their native terminal)
     * **X2Go client** [http://wiki.x2go.org/doku.php/download:start](http://wiki.x2go.org/doku.php/download:start)  
 * Key pairs 
-    * Demo
+	* ([Merlo Pisum](Resources/merlokeypairs.md)
+    * Demo ([Story of Merlo Pisum](Resources/merlokeypairs.md))
     * Activity (instructions here [http://tinyurl.com/creating-a-keypair](http://tinyurl.com/creating-a-keypair))
 * Security groups 
     * Demo
