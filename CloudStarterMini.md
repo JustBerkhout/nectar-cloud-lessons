@@ -26,7 +26,8 @@ Tasmanian Partnership for Advanced Computing
     * **AAF** enabled user account at your aaf member organisation
     * Access to your 3-6 month **trial allocation OR a project allocation**
     * Windows users: the **MobaXTerm terminal software** [http://mobaxterm.mobatek.net/download.html](http://mobaxterm.mobatek.net/download.html) (Mac and Unix users can use their native terminal)
-    * **X2Go client** [http://wiki.x2go.org/doku.php/download:start](http://wiki.x2go.org/doku.php/download:start)  
+    * **X2Go client** [http://wiki.x2go.org/doku.php/download:start](http://wiki.x2go.org/doku.php/download:start)
+    * a well-developed sense of metaphor
 * Key pairs 
 	* The story of [Merlo Pisum](Resources/merlokeypairs.md)
     * Demo

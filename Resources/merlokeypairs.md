@@ -1,5 +1,9 @@
 # Key pairs
 
+or
+
+# How to remember a 1500-random-character-password
+
 To be able to use the Nectar Cloud you will need a Key Pair.
 
 What a key pair is, how they work, why you need one and how you get one are the subjects of many religious texts and colourful anecdotes. But for us, today, this is what that boils down to. 
