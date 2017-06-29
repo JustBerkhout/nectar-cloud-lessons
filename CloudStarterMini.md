@@ -1,7 +1,7 @@
-# Cloud Starter Mini, Resbaz 2017 Hobart
+# Cloud Starter Mini
 URL: [http://tinyurl.com/cloud-starter-mini](http://tinyurl.com/cloud-starter-mini)
 
-This is a scaled down version of Nectar Cloud Starter for the ResBaz 2017 Hobart Community day.
+This is a scaled down version of full day Nectar Cloud Starter
 
 Just Berkhout,
 Tasmanian Partnership for Advanced Computing
@@ -23,7 +23,10 @@ Tasmanian Partnership for Advanced Computing
         * name/flavour/image + key/security group + AZ
         * ip address
 * Prerequisites 
-    * we'll address section by section today, but the link is here: 
+    * **AAF** enabled user account at your aaf member organisation
+    * Access to your 3-6 month **trial allocation OR a project allocation**
+    * Windows users: the **MobaXTerm terminal software** [http://mobaxterm.mobatek.net/download.html](http://mobaxterm.mobatek.net/download.html) (Mac and Unix users can use their native terminal)
+    * **X2Go client** [http://wiki.x2go.org/doku.php/download:start](http://wiki.x2go.org/doku.php/download:start)  
 * Key pairs 
     * Demo
     * Activity (instructions here [http://tinyurl.com/creating-a-keypair](http://tinyurl.com/creating-a-keypair))
