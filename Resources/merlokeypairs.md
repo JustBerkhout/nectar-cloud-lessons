@@ -14,7 +14,7 @@ A key pair is essentially a pair of files, consisting of:
 1. Your **Private Key**: your very own 1500+ random character password
 2. Your **Public Key**: a string of characters that uniquely identifies the Private Key, but isn't the same!
 
-3. A third essential component here is **software** to handle them both, so you don't have to rember and type so much ;-). The software we'll use for this is **ssh**.
+3. A third essential component here is **software** to handle them both, so you don't have to remember and type so much ;-). The software we'll use for this is **ssh**.
 
 ## How do they work?
 > Say you are Merlo Pisum, a researcher in linguistics. You want access to your language institute's supercomputer _Deep Green_. The sysadmin tells you to email them your _*Public Key*_. After you have sent your public key to the sysadmin, they create an account on _Deep Green_ with your username. When this is complete, the sysadmin sends you the following connection details:
@@ -31,7 +31,7 @@ Other software will use similar connections details. You usually specify a serve
 ## Why?
 Private Keys (ie. 1500+ character random character passwords) are incredibly hard to guess, even for incredibly powerful computers. 
 
-Private Keys are equally hard to remember, so the must necessarily be a file. 
+Private Keys are equally hard to remember, so they must necessarily be a file. 
 
 **!! A file that you guard well!!**
 
