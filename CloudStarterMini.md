@@ -63,7 +63,7 @@ Tasmanian Partnership for Advanced Computing
 
 # Training, Documentation and Support
 
-Self-paced Nectar training: [http://training.nectar.org.au/](http://training.nectar.org.au/)
+Self-paced Nectar training: [https://training.nectar.org.au/](https://training.nectar.org.au/)
 
 Nectar online documentation: [https://support.ehelp.edu.au/support/solutions](https://support.ehelp.edu.au/support/solutions)
 
